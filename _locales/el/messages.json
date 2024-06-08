@@ -1,4 +1,46 @@
 {
+    "qualityWhenRunningOnBattery": {
+        "message": "Quality, when running on battery"
+    },
+    "pauseWhileIUnplugTheCharger": {
+        "message": "Pause when I unplug the charger"
+    },
+    "whenBatteryIslowDecreaseQuality": {
+        "message": "Low battery: Decrease the quality"
+    },
+    "analytics": {
+        "message": "Analytics"
+    },
+    "purchase": {
+        "message": "Purchase"
+    },
+    "join": {
+        "message": "Join"
+    },
+    "improvedTubeSidePanel": {
+        "message": "ImprovedTube: Browser Sidepanel"
+    },
+    "cursorLighting": {
+        "message": "Dim Youtube's Pages, except what I mouse-over!"
+    },
+    "youtubesLight": {
+        "message": "YouTube's Light"
+    },
+    "popupAd": {
+        "message": "Pop-up ad: Hide"
+    },
+    "hideWatchedVideos": {
+        "message": "Hide watched videos"
+    },
+    "ambientLighting": {
+        "message": "Ambient lighting"
+    },
+    "undoTheNewSidebar": {
+        "message": "Undo the new sidebar!"
+    },
+    "hideLogo": {
+        "message": "Logo: Hide!"
+    },
     "2160p": {
         "message": "2160p - 4K"
     },
@@ -603,7 +645,7 @@
         "message": "Απόκρυψη Shorts από την αρχική σελίδα"
     },
     "hideMore": {
-        "message": "Απόκρυψη περισσότερων"
+        "message": "Hide '...'"
     },
     "hidePlayerControlsBar": {
         "message": "Απόκρυψη γραμμής ελέγχου player"
@@ -618,7 +660,7 @@
         "message": "Απόκρυψη playlist"
     },
     "hideReport": {
-        "message": "Απόκρυψη αναφοράς"
+        "message": "Hide 'Report'"
     },
     "hideRightButtons": {
         "message": "Απόκρυψη δεξιών κουμπιών"
@@ -690,7 +732,7 @@
         "message": "Έκδοση ImprovedTube"
     },
     "improveLogo": {
-        "message": "Λογότυπο Improve"
+        "message": "Logo: Monochrome!"
     },
     "increasePlaybackSpeed": {
         "message": "Αύξησε την ταχύτητα αναπαραγωγής"
@@ -735,7 +777,7 @@
         "message": "Ανοικτό πράσινο"
     },
     "like": {
-        "message": "Μου αρέσει"
+        "message": "Like"
     },
     "liked": {
         "message": "Βίντεο που μου αρέσουν"
@@ -968,6 +1010,9 @@
     "quality": {
         "message": "Ποιότητα"
     },
+    "qualityWithoutFocus": {
+        "message": "Quality without focus"
+    },
     "raised": {
         "message": "Υψωμένος"
     },
@@ -1080,7 +1125,7 @@
         "message": "Επιτυχής εισαγωγή ρυθμίσεων"
     },
     "share": {
-        "message": "Κοινοποίηση"
+        "message": "Share"
     },
     "shortcut_chapters": {
         "message": "Συντόμευση κεφαλαίων του player"
@@ -1335,6 +1380,9 @@
         "message": "Το YouTube περιορίζει την ποιότητα σε 1080p για το h.264 codec"
     },
     "youtubesDark": {
-        "message": "YouTube-σκοτεινό"
+        "message": "YouTube's Dark"
+    },
+    "pauseWhileIAmTypingOnYouTube": {
+        "message": "Pause when I'm typing on YouTube"
     }
 }
